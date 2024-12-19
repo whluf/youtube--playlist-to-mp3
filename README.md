@@ -58,11 +58,11 @@ Install via Homebrew:
 # Usage
 **Configure the script**:
 
-1. Open script.js and replace 'https://www.youtube.com/playlist?list=YOUR_PLAYLIST_ID' with the URL of your desired YouTube playlist.
+1. Open ytmp3.js and replace 'https://www.youtube.com/playlist?list=YOUR_PLAYLIST_ID' with the URL of your desired YouTube playlist.
 
 2. Run the script using Node.js:
     ```bash
-    node script.js
+    node ytmp3.js
     The MP3 files will be saved in the downloads directory within the project folder.
 
 # Disclaimer
